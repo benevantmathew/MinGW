@@ -1,0 +1,3 @@
+patching file gcc/config/i386/i386.c
+Hunk #1 succeeded at 35444 (offset -120 lines).
+Hunk #2 succeeded at 35493 (offset -120 lines).

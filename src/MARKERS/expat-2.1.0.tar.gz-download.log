@@ -1,0 +1,35 @@
+--2013-07-09 21:55:38--  http://sourceforge.net/projects/expat/files/expat/2.1.0/expat-2.1.0.tar.gz
+Resolving sourceforge.net... 216.34.181.60
+Connecting to sourceforge.net|216.34.181.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourceforge.net/projects/expat/files/expat/2.1.0/expat-2.1.0.tar.gz/download [following]
+--2013-07-09 21:55:41--  http://sourceforge.net/projects/expat/files/expat/2.1.0/expat-2.1.0.tar.gz/download
+Connecting to sourceforge.net|216.34.181.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://downloads.sourceforge.net/project/expat/expat/2.1.0/expat-2.1.0.tar.gz?r=&ts=1373392541&use_mirror=citylan [following]
+--2013-07-09 21:55:43--  http://downloads.sourceforge.net/project/expat/expat/2.1.0/expat-2.1.0.tar.gz?r=&ts=1373392541&use_mirror=citylan
+Resolving downloads.sourceforge.net... 216.34.181.59
+Connecting to downloads.sourceforge.net|216.34.181.59|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://citylan.dl.sourceforge.net/project/expat/expat/2.1.0/expat-2.1.0.tar.gz [following]
+--2013-07-09 21:55:46--  http://citylan.dl.sourceforge.net/project/expat/expat/2.1.0/expat-2.1.0.tar.gz
+Resolving citylan.dl.sourceforge.net... 212.118.44.106, 2a03:1800:1:7::2
+Connecting to citylan.dl.sourceforge.net|212.118.44.106|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 562616 (549K) [application/x-gzip]
+Saving to: `/tmp/src//expat-2.1.0.tar.gz'
+
+     0K .......... .......... .......... .......... ..........  9%  775K 1s
+    50K .......... .......... .......... .......... .......... 18% 2.56M 0s
+   100K .......... .......... .......... .......... .......... 27% 2.38M 0s
+   150K .......... .......... .......... .......... .......... 36% 2.50M 0s
+   200K .......... .......... .......... .......... .......... 45% 2.06M 0s
+   250K .......... .......... .......... .......... .......... 54% 2.54M 0s
+   300K .......... .......... .......... .......... .......... 63% 2.39M 0s
+   350K .......... .......... .......... .......... .......... 72% 2.45M 0s
+   400K .......... .......... .......... .......... .......... 81% 2.73M 0s
+   450K .......... .......... .......... .......... .......... 91% 2.09M 0s
+   500K .......... .......... .......... .......... ......... 100% 2.71M=0.3s
+
+2013-07-09 21:55:46 (2.02 MB/s) - `/tmp/src//expat-2.1.0.tar.gz' saved [562616/562616]
+

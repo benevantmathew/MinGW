@@ -1,0 +1,3 @@
+patching file Lib/distutils/command/install.py
+patching file Lib/distutils/util.py
+patching file Makefile.pre.in

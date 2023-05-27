@@ -1,0 +1,5 @@
+patching file configure.ac
+patching file Include/osdefs.h
+patching file Makefile.pre.in
+patching file Modules/getpath.c
+patching file Modules/Setup.dist

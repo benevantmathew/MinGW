@@ -1,0 +1,5 @@
+patching file configure.ac
+patching file Modules/getpath.c
+patching file Modules/posixmodule.c
+patching file Parser/metagrammar.c
+patching file Python/pythonrun.c

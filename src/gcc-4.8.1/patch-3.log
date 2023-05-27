@@ -1,0 +1,2 @@
+patching file libstdc++-v3/config/abi/pre/gnu.ver
+Hunk #1 succeeded at 1546 with fuzz 1 (offset 33 lines).

@@ -1,0 +1,4 @@
+patching file libgcc/config/i386/cygming-crtbegin.c
+Hunk #1 succeeded at 82 (offset -18 lines).
+Hunk #2 succeeded at 96 (offset -18 lines).
+Hunk #3 succeeded at 129 (offset -18 lines).

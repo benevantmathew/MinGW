@@ -1,0 +1,2 @@
+patching file gcc/config/i386/mingw-w64.h
+Hunk #1 succeeded at 43 (offset -1 lines).

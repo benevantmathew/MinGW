@@ -1,0 +1,5 @@
+patching file win32/Makefile.gcc
+Hunk #1 succeeded at 71 (offset 5 lines).
+patching file zconf.h.in
+Hunk #1 succeeded at 305 (offset 35 lines).
+Hunk #2 succeeded at 342 (offset 35 lines).

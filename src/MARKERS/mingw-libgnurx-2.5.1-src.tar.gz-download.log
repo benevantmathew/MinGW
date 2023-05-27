@@ -1,0 +1,33 @@
+--2013-07-09 21:55:17--  https://sourceforge.net/projects/mingw/files/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz
+Resolving sourceforge.net... 216.34.181.60
+Connecting to sourceforge.net|216.34.181.60|:443... connected.
+WARNING: cannot verify sourceforge.net's certificate, issued by `/C=US/O=GeoTrust, Inc./CN=GeoTrust SSL CA':
+  Unable to locally verify the issuer's authority.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourceforge.net/projects/mingw/files/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz [following]
+--2013-07-09 21:55:20--  http://sourceforge.net/projects/mingw/files/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz
+Connecting to sourceforge.net|216.34.181.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourceforge.net/projects/mingw/files/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz/download [following]
+--2013-07-09 21:55:23--  http://sourceforge.net/projects/mingw/files/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz/download
+Connecting to sourceforge.net|216.34.181.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://downloads.sourceforge.net/project/mingw/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz?r=&ts=1373392523&use_mirror=citylan [following]
+--2013-07-09 21:55:25--  http://downloads.sourceforge.net/project/mingw/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz?r=&ts=1373392523&use_mirror=citylan
+Resolving downloads.sourceforge.net... 216.34.181.59
+Connecting to downloads.sourceforge.net|216.34.181.59|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://citylan.dl.sourceforge.net/project/mingw/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz [following]
+--2013-07-09 21:55:28--  http://citylan.dl.sourceforge.net/project/mingw/Other/UserContributed/regex/mingw-regex-2.5.1/mingw-libgnurx-2.5.1-src.tar.gz
+Resolving citylan.dl.sourceforge.net... 212.118.44.106, 2a03:1800:1:7::2
+Connecting to citylan.dl.sourceforge.net|212.118.44.106|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125941 (123K) [application/x-gzip]
+Saving to: `/tmp/src//mingw-libgnurx-2.5.1-src.tar.gz'
+
+     0K .......... .......... .......... .......... .......... 40%  631K 0s
+    50K .......... .......... .......... .......... .......... 81% 1.99M 0s
+   100K .......... .......... ..                              100% 2.75M=0.1s
+
+2013-07-09 21:55:28 (1.07 MB/s) - `/tmp/src//mingw-libgnurx-2.5.1-src.tar.gz' saved [125941/125941]
+

@@ -1,0 +1,7 @@
+patching file configure.ac
+patching file Lib/ctypes/test/test_as_parameter.py
+patching file Lib/ctypes/test/test_functions.py
+patching file Modules/_ctypes/callproc.c
+patching file Modules/_ctypes/libffi/fficonfig.py.in
+patching file pyconfig.h.in
+patching file setup.py

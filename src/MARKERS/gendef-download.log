@@ -1,0 +1,27 @@
+A    /tmp/src/gendef/ChangeLog.2009
+A    /tmp/src/gendef/config.h.in
+A    /tmp/src/gendef/configure
+A    /tmp/src/gendef/Makefile.in
+A    /tmp/src/gendef/configure.ac
+A    /tmp/src/gendef/ChangeLog
+A    /tmp/src/gendef/src
+A    /tmp/src/gendef/src/compat_string.h
+A    /tmp/src/gendef/src/fsredir.c
+A    /tmp/src/gendef/src/fsredir.h
+A    /tmp/src/gendef/src/gendef_def.c
+A    /tmp/src/gendef/src/gendef.c
+A    /tmp/src/gendef/src/compat_string.c
+A    /tmp/src/gendef/src/gendef.h
+A    /tmp/src/gendef/COPYING
+A    /tmp/src/gendef/ChangeLog.2010
+A    /tmp/src/gendef/ChangeLog.2011
+A    /tmp/src/gendef/Makefile.am
+A    /tmp/src/gendef/ChangeLog.2012
+A    /tmp/src/gendef/build-aux
+A    /tmp/src/gendef/build-aux/depcomp
+A    /tmp/src/gendef/build-aux/missing
+A    /tmp/src/gendef/build-aux/config.guess
+A    /tmp/src/gendef/build-aux/config.sub
+A    /tmp/src/gendef/build-aux/install-sh
+A    /tmp/src/gendef/aclocal.m4
+Checked out revision 5982.

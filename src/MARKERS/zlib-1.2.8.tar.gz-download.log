@@ -1,0 +1,36 @@
+--2013-07-09 21:14:52--  http://sourceforge.net/projects/libpng/files/zlib/1.2.8/zlib-1.2.8.tar.gz
+Resolving sourceforge.net... 216.34.181.60
+Connecting to sourceforge.net|216.34.181.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sourceforge.net/projects/libpng/files/zlib/1.2.8/zlib-1.2.8.tar.gz/download [following]
+--2013-07-09 21:14:55--  http://sourceforge.net/projects/libpng/files/zlib/1.2.8/zlib-1.2.8.tar.gz/download
+Connecting to sourceforge.net|216.34.181.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://downloads.sourceforge.net/project/libpng/zlib/1.2.8/zlib-1.2.8.tar.gz?r=&ts=1373390095&use_mirror=netcologne [following]
+--2013-07-09 21:14:57--  http://downloads.sourceforge.net/project/libpng/zlib/1.2.8/zlib-1.2.8.tar.gz?r=&ts=1373390095&use_mirror=netcologne
+Resolving downloads.sourceforge.net... 216.34.181.59
+Connecting to downloads.sourceforge.net|216.34.181.59|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://netcologne.dl.sourceforge.net/project/libpng/zlib/1.2.8/zlib-1.2.8.tar.gz [following]
+--2013-07-09 21:15:00--  http://netcologne.dl.sourceforge.net/project/libpng/zlib/1.2.8/zlib-1.2.8.tar.gz
+Resolving netcologne.dl.sourceforge.net... 78.35.24.46, 2001:4dd0:1234:6::5f
+Connecting to netcologne.dl.sourceforge.net|78.35.24.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 571091 (558K) [application/x-gzip]
+Saving to: `/tmp/src//zlib-1.2.8.tar.gz'
+
+     0K .......... .......... .......... .......... ..........  8%  189K 3s
+    50K .......... .......... .......... .......... .......... 17%  660K 2s
+   100K .......... .......... .......... .......... .......... 26%  661K 1s
+   150K .......... .......... .......... .......... .......... 35%  891K 1s
+   200K .......... .......... .......... .......... .......... 44% 2.31M 1s
+   250K .......... .......... .......... .......... .......... 53% 1.17M 0s
+   300K .......... .......... .......... .......... .......... 62% 1.89M 0s
+   350K .......... .......... .......... .......... .......... 71% 2.58M 0s
+   400K .......... .......... .......... .......... .......... 80% 1.29M 0s
+   450K .......... .......... .......... .......... .......... 89% 2.16M 0s
+   500K .......... .......... .......... .......... .......... 98% 2.43M 0s
+   550K .......                                               100% 3.41M=0.7s
+
+2013-07-09 21:15:01 (842 KB/s) - `/tmp/src//zlib-1.2.8.tar.gz' saved [571091/571091]
+

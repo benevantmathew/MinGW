@@ -1,0 +1,2 @@
+patching file Lib/distutils/cygwinccompiler.py
+patching file Modules/Setup.config.in

@@ -1,0 +1,4 @@
+patching file Lib/ctypes/test/test_as_parameter.py
+patching file Lib/ctypes/test/test_functions.py
+patching file Modules/_ctypes/libffi_msvc/win32.S
+patching file setup.py

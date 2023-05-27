@@ -1,0 +1,3 @@
+(Stripping trailing CRs from patch; use --binary to disable.)
+patching file main.c
+Hunk #1 succeeded at 1115 (offset 144 lines).

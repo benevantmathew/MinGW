@@ -1,0 +1,19 @@
+A    /tmp/src/genpeimg/config.h.in
+A    /tmp/src/genpeimg/configure
+A    /tmp/src/genpeimg/Makefile.in
+A    /tmp/src/genpeimg/configure.ac
+A    /tmp/src/genpeimg/src
+A    /tmp/src/genpeimg/src/img_pe.c
+A    /tmp/src/genpeimg/src/img.h
+A    /tmp/src/genpeimg/src/genpeimg.c
+A    /tmp/src/genpeimg/src/img.c
+A    /tmp/src/genpeimg/COPYING
+A    /tmp/src/genpeimg/Makefile.am
+A    /tmp/src/genpeimg/build-aux
+A    /tmp/src/genpeimg/build-aux/depcomp
+A    /tmp/src/genpeimg/build-aux/missing
+A    /tmp/src/genpeimg/build-aux/config.guess
+A    /tmp/src/genpeimg/build-aux/config.sub
+A    /tmp/src/genpeimg/build-aux/install-sh
+A    /tmp/src/genpeimg/aclocal.m4
+Checked out revision 5982.

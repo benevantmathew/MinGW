@@ -1,0 +1,3 @@
+patching file src/mp_std_bits.cc
+Hunk #1 succeeded at 25 with fuzz 2.
+patching file src/mp_std_bits.defs.hh

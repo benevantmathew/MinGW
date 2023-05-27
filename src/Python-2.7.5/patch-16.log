@@ -1,0 +1,3 @@
+patching file configure.ac
+patching file Makefile.pre.in
+patching file Misc/python-config.sh.in
